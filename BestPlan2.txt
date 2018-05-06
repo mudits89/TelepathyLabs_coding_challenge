@@ -1,0 +1,5 @@
+PFA the code. zip file. The jar file is inside the zip file in the artifacts folder. To run the jar file use he below command
+
+java -jar <name of the jar>.jar F1 F2 
+
+Where F1 and F2 are the features a user wants. (One can add more than 2)
